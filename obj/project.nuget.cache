@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjegLsKO1clSiJAJU55LvHdDIZxzMgRox2k7s7d/pB0zwzmo5WJI6k9BbcFq4ggSdc7f4LwSdje0h542Yv4eFg==",
+  "success": true,
+  "projectFilePath": "C:\\Software\\Training\\test\\mslearn-deploy-run-container-app-service\\dotnet1\\sweb\\sweb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
